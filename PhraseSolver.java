@@ -21,7 +21,7 @@ public class PhraseSolver
   }
 
   /* your code here - accessor(s) */
-  
+
   /* your code here - mutator(s)  */
 
   public void play()
