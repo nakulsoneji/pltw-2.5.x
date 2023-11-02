@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Player
 {
   private String name = ""; 
-  private double points;
+  private int points;
   /* your code here - attributes */
 
   /* your code here - constructor(s) */ 
@@ -40,5 +40,8 @@ public class Player
   {
     name = x;
   }
-
+  public void setPoints(int x)
+  {
+    points = x;
+  }
 }
