@@ -27,7 +27,7 @@ public class Player
     name = inputName;
   }
   /* your code here - accessor(s) */ 
-  public double getPoints()
+  public int getPoints()
   {
     return points;
   }
